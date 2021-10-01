@@ -1,0 +1,1 @@
+You are given a folder named "TestFolder". Get the size 

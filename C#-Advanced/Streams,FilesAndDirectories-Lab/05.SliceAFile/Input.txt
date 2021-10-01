@@ -1,0 +1,7 @@
+You are given a folder named "TestFolder". Get the size of all files in the folder, which are NOT directories. The result should be written to another text file in Megabytes.
+jnoi
+125681495
+wefe
+111jgj
+
+
