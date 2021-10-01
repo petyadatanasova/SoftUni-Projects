@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "edZCsK21iQseFNW9Wy/6rIWzpKoNmgi2Nhz34Up8HEFrpvh8lve3qA7snPfBKbHsOivlruwt9fCV862koh9NYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\petya\\source\\repos\\Streams,FilesAndDirectories-Lab\\01.OddLines\\01.OddLines-File.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\petya\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\petya\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\petya\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\petya\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\petya\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\petya\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\petya\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

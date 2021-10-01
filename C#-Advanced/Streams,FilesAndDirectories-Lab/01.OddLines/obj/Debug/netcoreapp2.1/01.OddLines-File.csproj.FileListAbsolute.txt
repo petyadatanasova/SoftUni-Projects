@@ -1,0 +1,13 @@
+C:\Users\petya\source\repos\Streams,FilesAndDirectories-Lab\01.OddLines\bin\Debug\netcoreapp2.1\input.txt
+C:\Users\petya\source\repos\Streams,FilesAndDirectories-Lab\01.OddLines\bin\Debug\netcoreapp2.1\01.OddLines-File.deps.json
+C:\Users\petya\source\repos\Streams,FilesAndDirectories-Lab\01.OddLines\bin\Debug\netcoreapp2.1\01.OddLines-File.runtimeconfig.json
+C:\Users\petya\source\repos\Streams,FilesAndDirectories-Lab\01.OddLines\bin\Debug\netcoreapp2.1\01.OddLines-File.runtimeconfig.dev.json
+C:\Users\petya\source\repos\Streams,FilesAndDirectories-Lab\01.OddLines\bin\Debug\netcoreapp2.1\01.OddLines-File.dll
+C:\Users\petya\source\repos\Streams,FilesAndDirectories-Lab\01.OddLines\bin\Debug\netcoreapp2.1\01.OddLines-File.pdb
+C:\Users\petya\source\repos\Streams,FilesAndDirectories-Lab\01.OddLines\obj\Debug\netcoreapp2.1\01.OddLines-File.csproj.AssemblyReference.cache
+C:\Users\petya\source\repos\Streams,FilesAndDirectories-Lab\01.OddLines\obj\Debug\netcoreapp2.1\01.OddLines-File.AssemblyInfoInputs.cache
+C:\Users\petya\source\repos\Streams,FilesAndDirectories-Lab\01.OddLines\obj\Debug\netcoreapp2.1\01.OddLines-File.AssemblyInfo.cs
+C:\Users\petya\source\repos\Streams,FilesAndDirectories-Lab\01.OddLines\obj\Debug\netcoreapp2.1\01.OddLines-File.csproj.CoreCompileInputs.cache
+C:\Users\petya\source\repos\Streams,FilesAndDirectories-Lab\01.OddLines\obj\Debug\netcoreapp2.1\01.OddLines-File.dll
+C:\Users\petya\source\repos\Streams,FilesAndDirectories-Lab\01.OddLines\obj\Debug\netcoreapp2.1\01.OddLines-File.pdb
+C:\Users\petya\source\repos\Streams,FilesAndDirectories-Lab\01.OddLines\obj\Debug\netcoreapp2.1\01.OddLines-File.genruntimeconfig.cache
