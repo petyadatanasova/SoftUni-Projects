@@ -1,0 +1,22 @@
+{
+  "name": "04.fill-dropdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dropdown.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests",
+    "start": "http-server -a localhost -p 3000 -P http://localhost:3000? -c-1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "http-server": "0.12.3",
+    "lit-html": "^2.6.1",
+    "mocha": "^10.2.0",
+    "playwright-chromium": "^1.30.0"
+  }
+}
